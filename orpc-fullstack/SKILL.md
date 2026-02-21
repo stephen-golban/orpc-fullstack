@@ -1,5 +1,5 @@
 ---
-name: orpc
+name: orpc-fullstack
 description: >-
   oRPC (v1.12+) typesafe API layer for TypeScript. Covers contract-first
   development, procedure definition, middleware, routers, context, error
