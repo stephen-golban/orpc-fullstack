@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "orpc-fullstack": {
+      "source": "stephen-golban/orpc-fullstack",
+      "sourceType": "github",
+      "computedHash": "8638330f0fc22370597eca9ccfd90954c2076c9f64abad98ccb4fd052da2d2d5"
+    }
+  }
+}

@@ -1040,7 +1040,7 @@ const uploadPhoto = os
   .handler(async ({ input }) => {
     const buffer = await input.file.arrayBuffer();
     // Upload to S3/R2...
-    return { url: "https://cdn.example.com/photos/uploaded.jpg" };
+    return { url: "https://..." };
   });
 
 const downloadFile = os
